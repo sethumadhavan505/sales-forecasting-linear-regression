@@ -1,2 +1,3 @@
-# sales-forecasting-linear-regression
-Sales forecasting using Linear Regression in Python
+# Sales Forecasting Using Linear Regression
+
+This project predicts future sales using historical data and Linear Regression.
